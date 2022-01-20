@@ -1,6 +1,6 @@
 # katas-v1
 
-1. clone or download.
+1. download `https://github.com/theoriaarhidoxa/katas-v1/blob/main/v1.zip`.
 2. run `npm i`.
 3. run `npm run start`.
 
